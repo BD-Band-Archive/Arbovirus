@@ -17,6 +17,7 @@
 
 ### 💿 Mixed Albums
 5. [Din Bodol (দিন বদল) (2004)](#5-din-bodol-2004)
+6. [Boka Manushta (বোকা মানুষটা) (2007)](#6-boka-manushta-2007)
 
 ---
 
@@ -105,6 +106,15 @@
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Arbovirus - Obhishap**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/04.%20Obhishap.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/04.%20Obhishap.flac?download=true)
+
+---
+
+<a id="6-boka-manushta-2007"></a>
+## 6. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Boka%20Manushta)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Arbovirus - Shohor**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Shohor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/Bassbaba%20Sumon%20-%20Shohor.flac?download=true)
 
 ---
 
