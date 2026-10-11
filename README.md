@@ -142,7 +142,7 @@
 ---
 
 <a id="5-agontuk-2-2004"></a>
-## 5. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%202%20%282004%29)
+## 5. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -151,7 +151,7 @@
 ---
 
 <a id="6-din-bodol-2004"></a>
-## 6. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Din%20Bodol%20%282004%29)
+## 6. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -160,7 +160,7 @@
 ---
 
 <a id="7-boka-manushta-2007"></a>
-## 7. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bassbaba%20Sumon/Boka%20Manushta)
+## 7. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums#9-boka-manushta-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -169,7 +169,7 @@
 ---
 
 <a id="8-live-now-2007"></a>
-## 8. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+## 8. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -178,7 +178,7 @@
 ---
 
 <a id="9-bonno-2008"></a>
-## 9. [Bonno (বন্য) (2008)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Bonno%20%282008%29)
+## 9. [Bonno (বন্য) (2008)](https://github.com/GhostDog45/Mixed-Albums#14-bonno-2008)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -187,7 +187,7 @@
 ---
 
 <a id="10-rock-101-2008"></a>
-## 10. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Rock%20101%20%282008%29)
+## 10. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums#15-rock-101-2008)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -196,7 +196,7 @@
 ---
 
 <a id="11-rock-606-2011"></a>
-## 11. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Rock%20606%20%282011%29)
+## 11. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums#16-rock-606-2011)
 
 ### 🎵 Tracklist (One-Tap Download)
 
