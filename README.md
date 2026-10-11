@@ -19,7 +19,7 @@
 5. [Agontuk 2 (আগন্তুক ২) (2004)](#5-agontuk-2-2004)
 6. [Din Bodol (দিন বদল) (2004)](#6-din-bodol-2004)
 7. [Boka Manushta (বোকা মানুষটা) (2007)](#7-boka-manushta-2007)
-8. [Live Now (লাইভ নাউ) (2007)](#8-live-now-2007)
+8. [Live Now (লাইভ নাও) (2007)](#8-live-now-2007)
 9. [Bonno (বন্য) (2008)](#9-bonno-2008)
 10. [Rock 101 (রক ১০১) (2008)](#10-rock-101-2008)
 11. [Rock 606 (রক ৬০৬) (2011)](#11-rock-606-2011)
@@ -165,7 +165,7 @@
 ---
 
 <a id="8-live-now-2007"></a>
-## 8. [Live Now (লাইভ নাউ) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+## 8. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
 
 ### 🎵 Tracklist (One-Tap Download)
 
