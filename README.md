@@ -8,6 +8,18 @@
 
 ---
 
+## 📑 Discography Index
+
+1. [64m 53s (2006)](#1-64m-53s-2006)
+
+### 💿 Mixed Albums
+2. [Din Bodol (দিন বদল) (2004)](#2-din-bodol-2004)
+
+---
+
+<a id="1-64m-53s-2006"></a>
+## 1. 64m 53s (2006)
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**01 - Arbovirus - Shikarokti**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/64min53sec/01%20-%20Arbovirus%20-%20Shikarokti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/64min53sec/01%20-%20Arbovirus%20-%20Shikarokti.flac?download=true)
@@ -18,6 +30,15 @@
 - [**07 - Arbovirus - Omanush**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/64min53sec/07%20-%20Arbovirus%20-%20Omanush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/64min53sec/07%20-%20Arbovirus%20-%20Omanush.flac?download=true)
 - [**08 - Arbovirus - Chaya Manush**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/64min53sec/08%20-%20Arbovirus%20-%20Chaya%20Manush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/64min53sec/08%20-%20Arbovirus%20-%20Chaya%20Manush.flac?download=true)
 - [**09 - Arbovirus - Corporate Anthem**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/64min53sec/09%20-%20Arbovirus%20-%20Corporate%20Anthem.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/64min53sec/09%20-%20Arbovirus%20-%20Corporate%20Anthem.flac?download=true)
+
+---
+
+<a id="2-din-bodol-2004"></a>
+## 2. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Din%20Bodol%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**04. Obhishap**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/04.%20Obhishap.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/04.%20Obhishap.flac?download=true)
 
 ---
 
