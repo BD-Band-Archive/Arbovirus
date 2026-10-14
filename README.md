@@ -134,6 +134,11 @@
 - **Band:** Arbovirus
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Otopor/Album%20Cover/Otopor%20%5BFront%5D.jpg" width="300" alt="Otopor Cover" />
+</p>
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**01. Ami Amari Moto**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Otopor/1.%20Ami%20Amari%20Moto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Otopor/1.%20Ami%20Amari%20Moto.flac?download=true)
@@ -163,11 +168,11 @@
 ---
 
 <a id="7-boka-manushta-2007"></a>
-## 7. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Mixed-Albums#9-boka-manushta-2007)
+## 7. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Bassbaba-Sumon#4-boka-manushta-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Bassbaba Sumon feat. Arbovirus - Shohor**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/10%20-%20Sohor%20-%20Boka%20Manushta%20-%20Sumon%20feat.%20Arbovirus.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Bassbaba%20Sumon/Boka%20Manushta/10%20-%20Sohor%20-%20Boka%20Manushta%20-%20Sumon%20feat.%20Arbovirus.flac?download=true)
+- [**Bassbaba Sumon feat. Arbovirus - Shohor**](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Boka%20Manushta/10%20-%20Sohor%20-%20Boka%20Manushta%20-%20Sumon%20feat.%20Arbovirus.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Bassbaba-Sumon/master/Boka%20Manushta/10%20-%20Sohor%20-%20Boka%20Manushta%20-%20Sumon%20feat.%20Arbovirus.flac?download=true)
 
 ---
 
