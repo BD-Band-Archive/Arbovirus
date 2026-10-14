@@ -79,6 +79,12 @@
 - **Release Year:** 2013
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+- 
+<p align="center">
+  <img src="Montobbo%20Nishproyojon%20%282013%29/Album%20Cover/Cover.jpg" width="300" alt="64min53sec Cover" />
+</p>
+
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**01. Jaalo Aagun Jaalo**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Montobbo%20Nishproyojon%20%282013%29/1.%20Jaalo%20Aagun%20Jaalo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Montobbo%20Nishproyojon%20%282013%29/1.%20Jaalo%20Aagun%20Jaalo.flac?download=true)
