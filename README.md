@@ -112,6 +112,11 @@
 - **Release Year:** 2017
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Bishesh%20Droshtobyo%20%282017%29/Album%20Cover/Bishesh%20Droshtobyo%20%5Bfront%5D.jpg" width="300" alt="64min53sec Cover" />
+</p>
+
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**01. Mukhosh**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Bishesh%20Droshtobyo%20%282017%29/1.%20Mukhosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Bishesh%20Droshtobyo%20%282017%29/1.%20Mukhosh.flac?download=true)
