@@ -241,6 +241,15 @@
 
 ---
 
+<a id="14-rock-x0x-2015"></a>
+## 14. [Rock X0X (রক ১০১০) (2015)](https://github.com/GhostDog45/Mixed-Albums#24-rock-x0x-2015)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Arbovirus - Goal**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20X0X%20%282015%29/2.%20Goal%20-%20Arbovirus.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20X0X%20%282015%29/2.%20Goal%20-%20Arbovirus.flac?download=true)
+
+---
+
 ### 💾 Git LFS & Downloading Audio
 All audio tracks in this repository are managed via **Git LFS** (Large File Storage).
 - **One-Tap Direct Download:** Click either the track title or the green download button next to any song to instantly save the file to your device.
