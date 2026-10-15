@@ -18,19 +18,20 @@
 2. [Montobbo Nishproyojon (মন্তব্য নিষ্প্রয়োজন) (2013)](#2-montobbo-nishproyojon-2013)
 3. [Bishesh Droshtobyo (বিশেষ দ্রষ্টব্য) (2017)](#3-bishesh-droshtobyo-2017)
 4. [Otopor (অতঃপর)](#4-otopor)
+5. [Singles & Standalone Releases](#5-singles)
 
 ### 💿 Mixed Albums
-5. [Agontuk 2 (আগন্তুক ২) (2004)](#5-agontuk-2-2004)
-6. [Din Bodol (দিন বদল) (2004)](#6-din-bodol-2004)
-7. [Boka Manushta (বোকা মানুষটা) (2007)](#7-boka-manushta-2007)
-8. [Live Now (লাইভ নাও) (2007)](#8-live-now-2007)
-9. [Bonno (বন্য) (2008)](#9-bonno-2008)
-10. [Rock 101 (রক ১০১) (2008)](#10-rock-101-2008)
-11. [Rock 202 (রক ২০২) (2009)](#11-rock-202-2009)
-12. [Rock 505 (রক ৫০৫) (2010)](#12-rock-505-2010)
-13. [Rock 606 (রক ৬০৬) (2011)](#13-rock-606-2011)
-14. [Rock X0X (রক ১০১০) (2015)](#14-rock-x0x-2015)
-15. [Lokayot (2004)](#15-lokayot-2004)
+6. [Agontuk 2 (আগন্তুক ২) (2004)](#6-agontuk-2-2004)
+7. [Din Bodol (দিন বদল) (2004)](#7-din-bodol-2004)
+8. [Boka Manushta (বোকা মানুষটা) (2007)](#8-boka-manushta-2007)
+9. [Live Now (লাইভ নাও) (2007)](#9-live-now-2007)
+10. [Bonno (বন্য) (2008)](#10-bonno-2008)
+11. [Rock 101 (রক ১০১) (2008)](#11-rock-101-2008)
+12. [Rock 202 (রক ২০২) (2009)](#12-rock-202-2009)
+13. [Rock 505 (রক ৫০৫) (2010)](#13-rock-505-2010)
+14. [Rock 606 (রক ৬০৬) (2011)](#14-rock-606-2011)
+15. [Rock X0X (রক ১০১০) (2015)](#15-rock-x0x-2015)
+16. [Lokayot (2004)](#16-lokayot-2004)
 
 ---
 
@@ -168,8 +169,33 @@
 
 ---
 
-<a id="5-agontuk-2-2004"></a>
-## 5. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
+<a id="5-singles"></a>
+## 5. Singles & Standalone Releases
+
+- **Band:** Arbovirus
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+<p align="center">
+  <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="Arbovirus Singles Cover" />
+</p>
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**01. Arbovirus - INDRIYO**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Singles/01.%20Arbovirus%20-%20INDRIYO.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Singles/01.%20Arbovirus%20-%20INDRIYO.flac?download=true)
+- [**01. Arbovirus - KROUDH**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Singles/01.%20Arbovirus%20-%20KROUDH.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Singles/01.%20Arbovirus%20-%20KROUDH.flac?download=true)
+- [**Arbovirus - Purono Thikana**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Singles/Arbovirus%20-%20Purono%20Thikana.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Singles/Arbovirus%20-%20Purono%20Thikana.flac?download=true)
+- [**HOYTO - Arbovirus**](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Singles/HOYTO%20-%20Arbovirus.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Arbovirus/master/Singles/HOYTO%20-%20Arbovirus.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Singles/Album%20Cover/Arbovirus%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+
+---
+
+<a id="6-agontuk-2-2004"></a><a id="5-agontuk-2-2004"></a>
+## 6. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -177,8 +203,8 @@
 
 ---
 
-<a id="6-din-bodol-2004"></a>
-## 6. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
+<a id="7-din-bodol-2004"></a><a id="6-din-bodol-2004"></a>
+## 7. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -186,8 +212,8 @@
 
 ---
 
-<a id="7-boka-manushta-2007"></a>
-## 7. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Bassbaba-Sumon#4-boka-manushta-2007)
+<a id="8-boka-manushta-2007"></a><a id="7-boka-manushta-2007"></a>
+## 8. [Boka Manushta (বোকা মানুষটা) (2007)](https://github.com/GhostDog45/Bassbaba-Sumon#4-boka-manushta-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -195,8 +221,8 @@
 
 ---
 
-<a id="8-live-now-2007"></a>
-## 8. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
+<a id="9-live-now-2007"></a><a id="8-live-now-2007"></a>
+## 9. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -204,8 +230,8 @@
 
 ---
 
-<a id="9-bonno-2008"></a>
-## 9. [Bonno (বন্য) (2008)](https://github.com/GhostDog45/Mixed-Albums#14-bonno-2008)
+<a id="10-bonno-2008"></a><a id="9-bonno-2008"></a>
+## 10. [Bonno (বন্য) (2008)](https://github.com/GhostDog45/Mixed-Albums#14-bonno-2008)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -213,8 +239,8 @@
 
 ---
 
-<a id="10-rock-101-2008"></a>
-## 10. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums#15-rock-101-2008)
+<a id="11-rock-101-2008"></a><a id="10-rock-101-2008"></a>
+## 11. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums#15-rock-101-2008)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -222,8 +248,8 @@
 
 ---
 
-<a id="11-rock-202-2009"></a>
-## 11. [Rock 202 (রক ২০২) (2009)](https://github.com/GhostDog45/Mixed-Albums#rock-202-2009)
+<a id="12-rock-202-2009"></a><a id="11-rock-202-2009"></a>
+## 12. [Rock 202 (রক ২০২) (2009)](https://github.com/GhostDog45/Mixed-Albums#rock-202-2009)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -231,8 +257,8 @@
 
 ---
 
-<a id="12-rock-505-2010"></a>
-## 12. [Rock 505 (রক ৫০৫) (2010)](https://github.com/GhostDog45/Mixed-Albums#rock-505-2010)
+<a id="13-rock-505-2010"></a><a id="12-rock-505-2010"></a>
+## 13. [Rock 505 (রক ৫০৫) (2010)](https://github.com/GhostDog45/Mixed-Albums#rock-505-2010)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -240,8 +266,8 @@
 
 ---
 
-<a id="13-rock-606-2011"></a>
-## 13. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums#rock-606-2011)
+<a id="14-rock-606-2011"></a><a id="13-rock-606-2011"></a>
+## 14. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums#rock-606-2011)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -249,8 +275,8 @@
 
 ---
 
-<a id="14-rock-x0x-2015"></a>
-## 14. [Rock X0X (রক ১০১০) (2015)](https://github.com/GhostDog45/Mixed-Albums#24-rock-x0x-2015)
+<a id="15-rock-x0x-2015"></a><a id="14-rock-x0x-2015"></a>
+## 15. [Rock X0X (রক ১০১০) (2015)](https://github.com/GhostDog45/Mixed-Albums#24-rock-x0x-2015)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -258,8 +284,8 @@
 
 ---
 
-<a id="15-lokayot-2004"></a>
-## 15. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
+<a id="16-lokayot-2004"></a><a id="15-lokayot-2004"></a>
+## 16. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
