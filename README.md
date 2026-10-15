@@ -259,7 +259,7 @@
 ---
 
 <a id="15-lokayot-2004"></a>
-## 15. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+## 15. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
