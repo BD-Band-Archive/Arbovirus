@@ -158,6 +158,13 @@
 
 ---
 
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Otopor/Album%20Cover/Otopor%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
 ---
 
 <a id="5-agontuk-2-2004"></a>
