@@ -30,6 +30,7 @@
 12. [Rock 505 (রক ৫০৫) (2010)](#12-rock-505-2010)
 13. [Rock 606 (রক ৬০৬) (2011)](#13-rock-606-2011)
 14. [Rock X0X (রক ১০১০) (2015)](#14-rock-x0x-2015)
+15. [Lokayot (2004)](#15-lokayot-2004)
 
 ---
 
@@ -254,6 +255,15 @@
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Arbovirus - Goal**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20X0X%20%282015%29/2.%20Goal%20-%20Arbovirus.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20X0X%20%282015%29/2.%20Goal%20-%20Arbovirus.flac?download=true)
+
+---
+
+<a id="15-lokayot-2004"></a>
+## 15. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Arbovirus - Neelkaal**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/05.%20Neelkaal.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/05.%20Neelkaal.flac?download=true)
 
 ---
 
