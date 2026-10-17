@@ -295,7 +295,7 @@
 ## 14. [Rock 505 (রক ৫০৫) (2010)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-505-2010)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Arbovirus - Prarthona**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/02.%20Prarthona%20-.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/02.%20Prarthona%20-.flac?download=true)
+- [**Arbovirus - Prarthona**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/02.%20Prarthona%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/02.%20Prarthona%20-%20.flac?download=true)
 
 ---
 
