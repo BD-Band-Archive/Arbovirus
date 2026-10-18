@@ -1,0 +1,28 @@
+Album Name: Bishesh Droshtobyo
+Album Type: Band
+Release Year: 2017
+Genre: Rock
+Total Songs: 9
+Track List:
+01. Mukhosh
+02. Shurjo
+03. Nilam
+04. Tomader Shommane
+05. Bhenge Felo
+06. School
+07. Oshonglognota
+08. Bondhur Lash
+09. Tomar Gaan
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 021 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Mutagen 1.46.0

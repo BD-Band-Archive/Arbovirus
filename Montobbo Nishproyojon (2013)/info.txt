@@ -1,0 +1,27 @@
+Album Name: Montobbo Nishproyojon
+Album Type: Band
+Release Year: 2013
+Genre: Rock
+Total Songs: 8
+Track List:
+01. Jaalo Aagun Jaalo
+02. Roder Kinaray
+03. Hariye Jao
+04. Aw
+05. Durotto
+06. Sharthopor
+07. Prolaap
+08. Bodle Gechhe
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 979 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Mutagen 1.46.0
