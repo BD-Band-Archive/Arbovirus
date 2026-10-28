@@ -201,7 +201,7 @@
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="Arbovirus Singles Cover" />
+  <img src="Singles/Album%20Cover/Arbovirus%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="Arbovirus Singles Cover" />
 </p>
 
 ### 🎵 Tracklist (One-Tap Download)
@@ -215,7 +215,9 @@
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Arbovirus%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="Singles/Album%20Cover/Arbovirus%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Arbovirus%20-%20HOYTO.jpg" width="300" alt="2. Arbovirus - HOYTO" /><br><sub><b>2. Arbovirus - HOYTO</b></sub> |
+| <img src="Singles/Album%20Cover/Arbovirus%20-%20INDRIYO.jpg" width="300" alt="3. Arbovirus - INDRIYO" /><br><sub><b>3. Arbovirus - INDRIYO</b></sub> | <img src="Singles/Album%20Cover/Arbovirus%20-%20KROUDH.jpg" width="300" alt="4. Arbovirus - KROUDH" /><br><sub><b>4. Arbovirus - KROUDH</b></sub> |
+| <img src="Singles/Album%20Cover/Arbovirus%20-%20Purono%20Thikana.jpg" width="300" alt="5. Arbovirus - Purono Thikana" /><br><sub><b>5. Arbovirus - Purono Thikana</b></sub> |  |
 
 
 ### 💿 CD Ripper & Preservation Credit
