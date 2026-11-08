@@ -73,7 +73,6 @@
 | <img src="64min53sec%20%282007%29/Album%20Cover/64m%2053s%20%5BInset-Front%5D.jpg" width="300" alt="7. Inset (Front)" /><br><sub><b>7. Inset (Front)</b></sub> | <img src="64min53sec%20%282007%29/Album%20Cover/64m%2053s%20%5BCD%5D.jpg" width="300" alt="8. Compact Disc (CD)" /><br><sub><b>8. Compact Disc (CD)</b></sub> |
 | <img src="64min53sec%20%282007%29/Album%20Cover/64m%2053s%20%5BInset-Back%5D.jpg" width="300" alt="9. Back Inset" /><br><sub><b>9. Back Inset</b></sub> | <img src="64min53sec%20%282007%29/Album%20Cover/Arbovirus%20-%2064m%2053s%20%5BBack%5D.jpg" width="300" alt="10. Back Cover" /><br><sub><b>10. Back Cover</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -111,7 +110,6 @@
 | | |
 | :---: | :---: |
 | <img src="Montobbo%20Nishproyojon%20%282013%29/Album%20Cover/Cover.jpg" width="300" alt="1. Cover" /><br><sub><b>1. Cover</b></sub> |  |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -152,7 +150,6 @@
 | <img src="Bishesh%20Droshtobyo%20%282017%29/Album%20Cover/Bishesh%20Droshtobyo%20%5Bfront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Bishesh%20Droshtobyo%20%282017%29/Album%20Cover/Bishesh%20Droshtobyo%20%5Bartworkjpg.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
 | <img src="Bishesh%20Droshtobyo%20%282017%29/Album%20Cover/Bishesh%20Droshtobyo%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** sussybakaballs
@@ -186,7 +183,6 @@
 | :---: | :---: |
 | <img src="Otopor/Album%20Cover/Otopor%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -218,7 +214,6 @@
 | <img src="Singles/Album%20Cover/Arbovirus%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Arbovirus%20-%20HOYTO.jpg" width="300" alt="2. Arbovirus - HOYTO" /><br><sub><b>2. Arbovirus - HOYTO</b></sub> |
 | <img src="Singles/Album%20Cover/Arbovirus%20-%20INDRIYO.jpg" width="300" alt="3. Arbovirus - INDRIYO" /><br><sub><b>3. Arbovirus - INDRIYO</b></sub> | <img src="Singles/Album%20Cover/Arbovirus%20-%20KROUDH.jpg" width="300" alt="4. Arbovirus - KROUDH" /><br><sub><b>4. Arbovirus - KROUDH</b></sub> |
 | <img src="Singles/Album%20Cover/Arbovirus%20-%20Purono%20Thikana.jpg" width="300" alt="5. Arbovirus - Purono Thikana" /><br><sub><b>5. Arbovirus - Purono Thikana</b></sub> |  |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
